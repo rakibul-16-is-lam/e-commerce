@@ -3,7 +3,7 @@
 # create a damo e-commerce website 
 # using python with django framework .this is most usedful webframwork in the web technology..
 # data is used sqlit,mysql
-# template desigen html,css,javascript,,,
+# template desigen html,css,javascript,bootstrap 
 # Django==3.0.5
 # django-widget-tweaks==1.4.8
 # sqlparse==0.3.1
